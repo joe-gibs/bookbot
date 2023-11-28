@@ -1,2 +1,1 @@
-# jojo_repo
-# learning to code
+#BookBot is my first git project!
